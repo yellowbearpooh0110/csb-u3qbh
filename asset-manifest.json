@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/js/main.07555d6a.chunk.js",
+    "main.js.map": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/js/main.07555d6a.chunk.js.map",
+    "runtime-main.js": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/js/runtime-main.37a0eaa1.js",
+    "runtime-main.js.map": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/js/runtime-main.37a0eaa1.js.map",
+    "static/js/2.d3414248.chunk.js": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/js/2.d3414248.chunk.js",
+    "static/js/2.d3414248.chunk.js.map": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/js/2.d3414248.chunk.js.map",
+    "index.html": "https://yellowbearpooh0110.github.io/csb-u3qbh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d3414248.chunk.js.LICENSE.txt": "https://yellowbearpooh0110.github.io/csb-u3qbh/static/js/2.d3414248.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37a0eaa1.js",
+    "static/js/2.d3414248.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.07555d6a.chunk.js"
+  ]
+}
